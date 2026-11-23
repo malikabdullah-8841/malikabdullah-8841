@@ -17,7 +17,7 @@
 
 </div>
 
-I build backend, web, mobile and AI products with TypeScript and Python. Over 10+ years I've worked on systems used by 100K+ active users, from fintech and payments to large marketplaces and AI-powered SaaS.
+I build backend, web, mobile and AI products with TypeScript and Python. Over 10+ years I've worked on systems used by 100K+ active users, from fintech and payments to e-commerce and AI-powered SaaS.
 
 ## 🧑‍💻 About Me
 
@@ -81,13 +81,6 @@ Built the AI layer: RAG, stateful multi-step agents with tool calling, evaluatio
 Built a double-entry ledger, idempotent payment APIs and reconciliation jobs, and owned the payments backend in production.
 
 `Node.js` `PostgreSQL` `Redis` `AWS`
-
-### 🛒 [Soum.sa](https://soum.sa/en)
-**Saudi e-commerce and auction marketplace · 10M+ app downloads**
-
-Built real-time bidding over WebSockets, search, checkout and Arabic RTL support. Made real-device page loads 20% faster through caching and fewer re-renders.
-
-`React Native` `Next.js` `Node.js` `WebSockets`
 
 ### 🤝 [SkillMatch AI](https://www.skillmatchai.in/)
 **AI hiring platform that screens resumes and matches candidates to roles**
