@@ -19,6 +19,23 @@
 
 I build backend, web, mobile and AI products with TypeScript and Python. Over 10+ years I've worked on systems used by 100K+ active users, from fintech and payments to e-commerce and AI-powered SaaS.
 
+## 🔒 A Note on My Repositories
+
+> [!NOTE]
+> Most of my work over the last 10 years is client work under **NDA**, so those repositories are private.
+> I'm happy to walk you through the code, architecture and decisions **live over a screen share**.
+
+📅 **[Book a 30-minute call](https://calendly.com/malikabdullah8841/30min)**
+
+## 🚀 Open-Source Project
+
+### [AgentFlow](https://github.com/malikabdullah-8841/agentflow)
+**Visual builder for AI agent workflows**
+
+Connect blocks on a canvas (input, LLM, tool, condition, template, output), run them with Claude, and watch every step stream in live. Typed workflow engine with graph validation, branching, retries and cancellation, 40+ tests and CI.
+
+`TypeScript` `React Flow` `Fastify` `Anthropic SDK` `Vitest`
+
 ## 🧑‍💻 About Me
 
 I work across the whole product lifecycle: architecture, development, testing, deployment and production support. Today I'm a Lead Full Stack Engineer at Botmer International, where I lead a team of 6 engineers and own most of the backend and AI work.
@@ -33,23 +50,6 @@ My core stack is React, Next.js, React Native, Node.js, NestJS, Python/FastAPI, 
 - Reduced new developer onboarding from **3 weeks to under 5 days**
 - Run an edge layer on Cloudflare Workers that handles **10K+ requests per second**
 - Mentored **3 developers** who were later promoted to senior
-
-## 🚀 Open-Source Project
-
-### [AgentFlow](https://github.com/malikabdullah-8841/agentflow)
-**Visual builder for AI agent workflows**
-
-Connect blocks on a canvas (input, LLM, tool, condition, template, output), run them with Claude, and watch every step stream in live. Typed workflow engine with graph validation, branching, retries and cancellation, 40+ tests and CI.
-
-`TypeScript` `React Flow` `Fastify` `Anthropic SDK` `Vitest`
-
-## 🔒 A Note on My Repositories
-
-> [!NOTE]
-> Most of my work over the last 10 years is client work under **NDA**, so those repositories are private.
-> I'm happy to walk you through the code, architecture and decisions **live over a screen share**.
-
-📅 **[Book a 30-minute call](https://calendly.com/malikabdullah8841/30min)**
 
 ## 💼 Experience
 
