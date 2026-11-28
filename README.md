@@ -34,6 +34,15 @@ My core stack is React, Next.js, React Native, Node.js, NestJS, Python/FastAPI, 
 - Run an edge layer on Cloudflare Workers that handles **10K+ requests per second**
 - Mentored **3 developers** who were later promoted to senior
 
+## 🚀 Open-Source Project
+
+### [AgentFlow](https://github.com/malikabdullah-8841/agentflow)
+**Visual builder for AI agent workflows**
+
+Connect blocks on a canvas (input, LLM, tool, condition, template, output), run them with Claude, and watch every step stream in live. Typed workflow engine with graph validation, branching, retries and cancellation, 40+ tests and CI.
+
+`TypeScript` `React Flow` `Fastify` `Anthropic SDK` `Vitest`
+
 ## 🔒 A Note on My Repositories
 
 > [!NOTE]
@@ -49,7 +58,7 @@ My core stack is React, Next.js, React Native, Node.js, NestJS, Python/FastAPI, 
 
 Leading a team of 6 across 50+ APIs and services with Node.js/NestJS, Python (FastAPI), .NET, PostgreSQL, Redis, AWS and Azure. Building AI agents with RAG, tool calling, evals and model routing, plus MCP servers for internal tools. Infrastructure in Terraform and an edge layer on Cloudflare Workers.
 
-**Senior Software Engineer (Tech Lead) · AHOY Tech**
+**Senior Full Stack & Mobile Engineer · AHOY Tech**
 <br/><sub>Jul 2020 – Nov 2023 · Remote</sub>
 
 Worked directly with founders. Shipped React Native apps to the App Store and Google Play with native modules in Swift and Kotlin, built payment, lending and KYC flows with Stripe, and built web front ends in React and Next.js.
@@ -68,7 +77,7 @@ Built web features with JavaScript, HTML, CSS and SQL.
 
 The code for these is private, but I'm glad to walk through my part and the technical details.
 
-### ⚖️ [Powerhouse](https://www.powerhouse.so/)
+### ⚖️ Powerhouse
 **AI legal workflow platform**
 
 Built the AI layer: RAG, stateful multi-step agents with tool calling, evaluations and model routing, and led 2 developers on it. Cut document review from 2 hours to 15 minutes and lowered LLM costs by 35–40%.
